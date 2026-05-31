@@ -14,7 +14,7 @@ import streamlit.components.v1 as components
 # =========================================================
 
 st.set_page_config(
-    page_title="학습 공백 위험지수 결과 대시보드",
+    page_title="2025-03-01 ~ 2026-02-28 학사일정 기반 학습 공백 위험지수 결과 바로보기",
     page_icon="📚",
     layout="wide",
 )
